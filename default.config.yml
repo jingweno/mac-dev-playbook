@@ -16,6 +16,7 @@ dotfiles_repo: https://github.com/owenthereal/dotfiles.git
 dotfiles_repo_accept_hostkey: true
 dotfiles_repo_local_destination: ~/.dotfiles
 dotfiles_files:
+  - .dircolors
   - .gemrc
   - .gitignore
   - .gitconfig
@@ -30,13 +31,16 @@ homebrew_installed_packages:
   # - ansible # Installed via Pip.
   - coreutils
   - git
-  - hub
   - go
+  - hub
+  - kubectx
+  - kubernetes-cli
   - minikube
   - nodenv
   - tmate
   - tmux
   - rbenv
+  - reattach-to-user-namespace
   - vim
   - zsh
   - zsh-syntax-highlighting
