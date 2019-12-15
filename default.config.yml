@@ -32,6 +32,11 @@ homebrew_installed_packages:
   - git
   - hub
   - go
+  - minikube
+  - nodenv
+  - tmate
+  - tmux
+  - rbenv
   - vim
   - zsh
   - zsh-syntax-highlighting
@@ -46,8 +51,10 @@ homebrew_cask_appdir: /Applications
 homebrew_cask_apps:
   - docker
   - dropbox
+  - font-sourcecodepro-nerd-font
   - firefox
   - google-chrome
+  - iterm2
   - slack
   - vagrant
   - virtualbox
