@@ -35,10 +35,13 @@ homebrew_installed_packages:
   - hub
   - kubectx
   - kubernetes-cli
+  - postgres
+  - protobuf
   - minikube
   - nodenv
   - tmate
   - tmux
+  - redis
   - rbenv
   - reattach-to-user-namespace
   - vim
