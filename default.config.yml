@@ -17,6 +17,7 @@ dotfiles_repo_accept_hostkey: true
 dotfiles_repo_local_destination: ~/.dotfiles
 dotfiles_files:
   - .dircolors
+  - .fzf.zsh
   - .gemrc
   - .gitignore
   - .gitconfig
@@ -29,7 +30,9 @@ dotfiles_files:
 
 homebrew_installed_packages:
   # - ansible # Installed via Pip.
+  - bat
   - coreutils
+  - fzf
   - git
   - go
   - hub
@@ -45,6 +48,7 @@ homebrew_installed_packages:
   - rbenv
   - reattach-to-user-namespace
   - vim
+  - watch
   - zsh
   - zsh-syntax-highlighting
   - zsh-autosuggestions
