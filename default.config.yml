@@ -36,8 +36,10 @@ homebrew_installed_packages:
   - git
   - go
   - hub
+  - jq
   - kubectx
   - kubernetes-cli
+  - openssh
   - postgres
   - protobuf
   - minikube
