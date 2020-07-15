@@ -62,6 +62,7 @@ homebrew_taps:
 
 homebrew_cask_appdir: /Applications
 homebrew_cask_apps:
+  - blackhole
   - docker
   - dropbox
   - font-sourcecodepro-nerd-font
