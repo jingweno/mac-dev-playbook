@@ -27,6 +27,7 @@ dotfiles_files:
   - .spacevim
   - .tmux.conf
   - .zshrc
+  - .zshrc.darwin
 
 homebrew_installed_packages:
   # - ansible # Installed via Pip.
