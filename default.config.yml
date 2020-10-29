@@ -66,13 +66,12 @@ homebrew_cask_apps:
   - blackhole
   - docker
   - dropbox
-  - font-sourcecodepro-nerd-font
   - firefox
   - google-chrome
   - iterm2
   - slack
-  - vagrant
-  - virtualbox
+  #- vagrant
+  #- virtualbox
 
 # See `geerlingguy.mas` role documentation for usage instructions.
 mas_installed_apps: []
