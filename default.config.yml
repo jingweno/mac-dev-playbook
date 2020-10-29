@@ -51,6 +51,7 @@ homebrew_installed_packages:
   - rbenv
   - reattach-to-user-namespace
   - vim
+  - neovim
   - watch
   - zsh
   - zsh-syntax-highlighting
