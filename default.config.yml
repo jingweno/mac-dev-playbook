@@ -34,6 +34,7 @@ homebrew_installed_packages:
   - bat
   - coreutils
   - fzf
+  - font-hack-nerd-font
   - git
   - go
   - hub
