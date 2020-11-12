@@ -73,6 +73,8 @@ homebrew_cask_apps:
   - google-chrome
   - iterm2
   - slack
+  - spotify
+  - discord
   #- vagrant
   #- virtualbox
 
