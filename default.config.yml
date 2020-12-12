@@ -31,12 +31,18 @@ dotfiles_files:
 
 homebrew_installed_packages:
   # - ansible # Installed via Pip.
+  - awk
   - bat
   - coreutils
+  - direnv
+  - diffutils
   - fzf
+  - findutils
   - font-hack-nerd-font
+  - grep
   - git
   - go
+  - gnu-sed
   - hub
   - jq
   - kubectx
@@ -44,6 +50,7 @@ homebrew_installed_packages:
   - openssh
   - postgres
   - protobuf
+  - less
   - minikube
   - nodenv
   - tmate
