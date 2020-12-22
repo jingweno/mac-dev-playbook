@@ -32,6 +32,7 @@ dotfiles_files:
 homebrew_installed_packages:
   # - ansible # Installed via Pip.
   - awk
+  - bash
   - bat
   - coreutils
   - direnv
@@ -44,6 +45,7 @@ homebrew_installed_packages:
   - go
   - gnu-sed
   - hub
+  - hyperkit
   - jq
   - kubectx
   - kubernetes-cli
@@ -59,6 +61,7 @@ homebrew_installed_packages:
   - rbenv
   - reattach-to-user-namespace
   - terraform
+  - tree
   - vim
   - neovim
   - watch
